@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --require ts-path-mapping/register ./src/index.ts",
-    "build": "tsc",
+    "build": "npx tsc",
     "start": "node --require ts-path-mapping/register ./dist/index.js"
   },
   "keywords": [],
