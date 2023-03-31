@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1",
+        "title": "Celulares",
+        "slug": "celulares",
+        "sub_categories": [
+            {
+                "id": "2",
+                "title": "Smartphones",
+                "slug": "smartphones"
+            },
+            {
+                "id": "3",
+                "title": "Tablets",
+                "slug": "tablets"
+            },
+            {
+                "id": "4",
+                "title": "Acccesorios para Celulares",
+                "slug": "acccesorios_para_celuares"
+            }
+            
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Computación",
+        "slug": "computacion",
+        "sub_categories": [
+            {
+                "id": "6",
+                "title": "Portatiles",
+                "slug": "portatiles"
+            },
+            {
+                "id": "7",
+                "title": "Computadores de Mesa",
+                "slug": "computadores_de_mesa"
+            },
+            {
+                "id": "8",
+                "title": "Acccesorios para portatiles",
+                "slug": "acccesorios_para_portatiles"
+            } 
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Audio y Video",
+        "slug": "audio_y_video",
+        "sub_categories": [
+            {
+                "id": "10",
+                "title": "Equipos de Sonido",
+                "slug": "equipos_de_sonido"
+            },
+            {
+                "id": "11",
+                "title": "Televisores",
+                "slug": "televisores"
+            },
+            {
+                "id": "12",
+                "title": "Audifonos",
+                "slug": "audifinos"
+            } 
+        ]
+    }
+]
